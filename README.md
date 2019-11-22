@@ -41,6 +41,5 @@ fan_in is the number of input units in the weight tensor
 fan_out is the number of output units in the weight tensor
 # Arguments
 seed: A Python integer. Used to seed the random generator
-# Returns
-An initializer
+It returns an initializer.
 
